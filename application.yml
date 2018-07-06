@@ -1,1 +1,2 @@
-eurekaServerPort: 87777
+eurekaServerPort: 8761
+userServer1Port: 8955
