@@ -3,3 +3,14 @@ userServer1Port: 8955
 movieServerPort: 8855
 zuulServerPort: 8763
 zipkinServerPort: 9411
+
+
+
+
+#设置项目ContextPath
+server: 
+  context-path= /
+#设置Tomcat编码
+server: 
+  tomcat: 
+    uri-encoding: UTF-8
