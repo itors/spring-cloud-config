@@ -1,2 +1,3 @@
 eurekaServerPort: 8761
 userServer1Port: 8955
+movieServerPort: 8855
