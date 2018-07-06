@@ -9,6 +9,6 @@ zipkinServerPort: 9411
 
 #设置项目ContextPath
 server: 
-  context-path= /
+  context-path: /
   tomcat: 
     uri-encoding: UTF-8 #设置Tomcat编码
