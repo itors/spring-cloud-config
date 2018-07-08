@@ -29,4 +29,4 @@ eureka:
 mybatis:
   mapper-locations: 
     classpath: mapper/*.xml
-  type-aliases-package: com.asiainfo.pojo #配置模型路径
+  type-aliases-package: com.itors.eshop.pojo #配置模型路径

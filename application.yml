@@ -5,8 +5,6 @@ zuulServerPort: 8763
 zipkinServerPort: 9411
 
 
-
-
 #设置项目ContextPath
 server: 
   context-path: /
