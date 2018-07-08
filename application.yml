@@ -3,7 +3,7 @@ userServer1Port: 8955
 movieServerPort: 8855
 zuulServerPort: 8763
 zipkinServerPort: 9411
-
+dbPassword: '{cipher}AQAukQBbbBHgUZZSnrpFbVwIGAofYw4nLfMX4mBN+8OK0+/zvp+23JqbhfTVCUrBquO+m0durXrWpM9jvT85KBbj1NHNsQffjXsEYe6IFLq8qUQs5ChpaYvb4T+eSmCQ3v8VbDroBUZ9oySbzp582HypApN2iC5ENtfTAAXIihbjak7RRQ8g/nFdexcxAh08Vi4+zFOX2rfVnXL5putjRAm6G5LBZHAB/TRyWCw8V+TcmNne0H0zcPgVjdMshPJiSQ057mWQIjRS+0qklfcjgPGerxR8XyYxVGtBOPxvFzPagPcHAaJOlGcb99pkUEsbzDuhpoEzW7HIe/H2u78EuaCpfyj501SJTozfZO5Iok5wMOSJwiE4tLEvfraRbFyOwbY='
 
 
     
