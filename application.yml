@@ -5,8 +5,17 @@ zuulServerPort: 8763
 zipkinServerPort: 9411
 
 
+
+    
+#配置.xml文件路径
+mybatis:
+  mapper-locations: 
+    classpath: mapper/*.xml
+  type-aliases-package: com.itors.eshop.pojo #配置模型路径
+
 #设置项目ContextPath
 server: 
   context-path: /
   tomcat: 
     uri-encoding: UTF-8 #设置Tomcat编码
+  
